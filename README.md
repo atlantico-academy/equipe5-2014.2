@@ -1,6 +1,8 @@
-# <Título do projeto>
+# Análise dos Fatores de Risco Associados a Doenças Cardíacas
 
-Insira aqui um resumo do projeto que será construído. Tente apresentar uma justificativa para o projeto. É desejável que também se insira um [graphical abstract](https://www.elsevier.com/authors/tools-and-resources/visual-abstract).
+![Descrição da Imagem](https://imgur.com/RcLLVLq.png)
+
+Este projeto visa analisar um conjunto de dados sobre doenças cardíacas para identificar os fatores de risco mais significativos que contribuem para o desenvolvimento dessas condições. O objetivo é fornecer insights acionáveis que possam ser utilizados para melhorar a prevenção e o tratamento das doenças cardíacas, com base em características demográficas e clínicas dos pacientes.
 
 ## Desenvolvedores
  - [Nome do desenvolvedor #1](url-do-github-do-desenvolvedor-#1)
