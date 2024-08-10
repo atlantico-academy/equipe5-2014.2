@@ -5,7 +5,7 @@
 Este projeto visa analisar um conjunto de dados sobre doenças cardíacas para identificar os fatores de risco mais significativos que contribuem para o desenvolvimento dessas condições. O objetivo é fornecer insights acionáveis que possam ser utilizados para melhorar a prevenção e o tratamento das doenças cardíacas, com base em características demográficas e clínicas dos pacientes.
 
 ## Desenvolvedores
- - [Nome do desenvolvedor #1](url-do-github-do-desenvolvedor-#1)
+ - [Arthur Ramalho](https://github.com/Arthurrfreire)
  - [Nome do desenvolvedor #2](url-do-github-do-desenvolvedor-#2)
  - [Nome do desenvolvedor #3](url-do-github-do-desenvolvedor-#3)
  - [Nome do desenvolvedor #4](url-do-github-do-desenvolvedor-#4)
