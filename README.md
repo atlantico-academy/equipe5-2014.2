@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.imgur.com/RFoo9yw.png" alt="Logo da equipe" width="200"/>
+</p>
+
 # Análise dos Fatores de Risco Associados a Doenças Cardíacas
 
 ![Descrição da Imagem](https://imgur.com/RcLLVLq.png)
